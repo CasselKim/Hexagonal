@@ -1,8 +1,7 @@
-# Hexagonal
-Implement Hexagonal Architecture with fastAPI and Python
+# Hexagonal-instagram
+Implement instagram with Hexagonal Architecture (fastapi)
 
 # Requirements
-- python3
 - fastapi
 
 
