@@ -1,6 +1,12 @@
 # Hexagonal-instagram
 Implement instagram with Hexagonal Architecture (fastapi)
 
+# Architecture
+![image](architecture.png)  
+(1th edtion)  
+
+
+
 # Requirements
 - fastapi
 
